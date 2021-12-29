@@ -21,10 +21,10 @@ Hobbies [Jan]:
 - Skiing
 
 Sources:
-https://www.analyticsvidhya.com/blog/2021/10/complete-guide-to-build-your-ai-chatbot-with-nlp-in-python/
-https://towardsdatascience.com/your-guide-to-natural-language-processing-nlp-48ea2511f6e1
-https://www.ibm.com/cloud/learn/natural-language-processing
-https://pl.wikipedia.org/wiki/Przetwarzanie_j%C4%99zyka_naturalnego
-https://dfe.org.pl/nlp/
-https://www.polski-chatbot.pl/natural-language-processing-nlp-czym-jest/
-https://ichi.pro/pl/zbuduj-chatbota-ai-machine-learning-w-pythonie-z-rasa-czesc-1-269134826511082
+1. https://www.analyticsvidhya.com/blog/2021/10/complete-guide-to-build-your-ai-chatbot-with-nlp-in-python/
+2. https://towardsdatascience.com/your-guide-to-natural-language-processing-nlp-48ea2511f6e1
+3. https://www.ibm.com/cloud/learn/natural-language-processing
+4. https://pl.wikipedia.org/wiki/Przetwarzanie_j%C4%99zyka_naturalnego
+5. https://dfe.org.pl/nlp/
+6. https://www.polski-chatbot.pl/natural-language-processing-nlp-czym-jest/
+7. https://ichi.pro/pl/zbuduj-chatbota-ai-machine-learning-w-pythonie-z-rasa-czesc-1-269134826511082
