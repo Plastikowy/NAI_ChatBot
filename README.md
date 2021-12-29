@@ -9,7 +9,8 @@ Hobbies [Tomek]:
 - gameDev
 
 Hobbies [Piotr]:
-- TBD
+- Mixed Martial Arts
+- Web Development
 
 Hobbies [Jan]:
 - Mountain Biking
