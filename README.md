@@ -12,6 +12,5 @@ Hobbies [Piotr]:
 - TBD
 
 Hobbies [Jan]:
-- MTB
+- Mountain Biking
 - Skiing
-- Porn
