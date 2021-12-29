@@ -10,3 +10,8 @@ Hobbies [Tomek]:
 
 Hobbies [Piotr]:
 - TBD
+
+Hobbies [Jan]:
+- MTB
+- Skiing
+- Porn
