@@ -28,3 +28,11 @@ Sources:
 5. https://dfe.org.pl/nlp/
 6. https://www.polski-chatbot.pl/natural-language-processing-nlp-czym-jest/
 7. https://ichi.pro/pl/zbuduj-chatbota-ai-machine-learning-w-pythonie-z-rasa-czesc-1-269134826511082
+8. https://www.linguamatics.com/what-text-mining-text-analytics-and-natural-language-processing
+9. https://towardsdatascience.com/building-a-language-translation-chatbot-in-python-step-by-step-40709393a98
+10. https://www.youtube.com/watch?v=xvqsFTUsOmc
+11. https://github.com/Sturzgefahr/Natural-Language-Processing-with-Python-Analyzing-Text-with-the-Natural-Language-Toolkit
+12. https://neptune.ai/blog/exploratory-data-analysis-natural-language-processing-tools
+13. https://opensource.com/article/20/8/intro-python-nltk
+14. 
+15. 
