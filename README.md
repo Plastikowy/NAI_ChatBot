@@ -34,5 +34,5 @@ Sources:
 11. https://github.com/Sturzgefahr/Natural-Language-Processing-with-Python-Analyzing-Text-with-the-Natural-Language-Toolkit
 12. https://neptune.ai/blog/exploratory-data-analysis-natural-language-processing-tools
 13. https://opensource.com/article/20/8/intro-python-nltk
-14. 
-15. 
+14. https://thinkinfi.com/complete-guide-for-natural-language-processing-in-python/
+15. https://thinkinfi.com/extract-custom-keywords-using-nltk-pos-tagger-in-python/
