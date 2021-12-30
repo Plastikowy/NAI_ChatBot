@@ -36,6 +36,8 @@ Sources:
 13. https://opensource.com/article/20/8/intro-python-nltk
 14. https://thinkinfi.com/complete-guide-for-natural-language-processing-in-python/
 15. https://thinkinfi.com/extract-custom-keywords-using-nltk-pos-tagger-in-python/
+16. https://blog.tensorflow.org/2019/05/transformer-chatbot-tutorial-with-tensorflow-2.html
+17. https://www.youtube.com/watch?v=SCk7onPrrwk
 
 Podsumowanie analizy źródeł:
 Na podstawie znalezionych źródeł zauważyliśmy, że tworząc chatbota musimy rozwiązać kilka kluczowych problemów. Pierwszym z nich jest analiza semantyczna tekstu. Uważamy, że w tym miejscu tkwi klucz do sukcesu, ponieważ od tego w jaki sposób bot odczyta i zinterpretuje tekst zależy to jaką odpowiedź zwróci. W skrócie, źle odczytana intencja użytkownika zwróci nieporządany wynik, co będzie oznaczało (z perspektywy użytkownika), że bot jest bezużyteczny. W ramach tego szeroko zdefiniowanego problemu, możemy wyróżnić wiele bardziej precyzyjnych zadań, m.in.: analiza składniowa, semantyka leksykalna, semantyka relacyjna. Kiedy potrafimy już odczytać pytanie/wypowiedź użytkownika musimy nauczyć bota reagować, tj. kontynuować rozmowę, odpowiadać na postawione pytanie. Ostatnim, równie ważnym problemem jest udzielenie poprawnej odpowiedzi, w oparciu o wiedzę, kontekst, reguły lingiwstyczne, zasoby.
